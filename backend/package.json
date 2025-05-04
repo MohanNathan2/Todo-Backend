@@ -1,0 +1,25 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "Todo list to learn  Mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohanNathan2/Todo-Backend.git"
+  },
+  "author": "Mohan Nathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohanNathan2/Todo-Backend/issues"
+  },
+  "homepage": "https://github.com/MohanNathan2/Todo-Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
